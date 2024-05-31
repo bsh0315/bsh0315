@@ -1,7 +1,7 @@
 # Hi there, I'm bsh0315 👋
 
 ## About Me
-I am a passionate student majoring in CS with a strong interest in C, C++ programming and Linux.
+I am a student majoring in CS with a strong interest in C, C++ programming and Linux.
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
