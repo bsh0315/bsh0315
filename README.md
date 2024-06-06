@@ -16,5 +16,8 @@ I am a student majoring in CS with a strong interest in C, C++ programming and L
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsh0315&layout=compact&theme=radical)
 
+## GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bsh0315&theme=radical)
+
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shbackrok@gmail.com)
