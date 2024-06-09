@@ -1,6 +1,6 @@
 # Hi there, I'm bsh0315 👋
 
-## About M
+## About Me
 I am a student majoring in CS with a strong interest in C, C++ programming and Linux.
 
 ## Languages and Tools
