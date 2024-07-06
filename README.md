@@ -11,9 +11,10 @@ I am a student majoring in CS with a strong interest in C, C++ programming and L
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Studying Now
-![Java](https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 
 ## Github Stats
